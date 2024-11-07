@@ -8,7 +8,7 @@
   "download": "https://github.com/Nosferaschu/dh2e_resources/raw/main/dh2e_resources.zip",
   "compatibility": {
     "minimum": "0.8.6",
-    "verified": "11"
+    "verified": "12"
   },
 	"packs": [
 	{
